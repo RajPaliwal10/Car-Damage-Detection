@@ -1,0 +1,16 @@
+item {
+  name: 'Scratch'
+  id: 1
+}
+item {
+  name: 'Dent'
+  id: 2
+}
+item {
+  name: 'Smashed'
+  id: 3
+}
+item {
+  name: 'Broken-glass'
+  id: 4
+}

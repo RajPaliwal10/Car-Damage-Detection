@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Damage</folder>
+	<filename>1463.jpeg</filename>
+	<path>/Volumes/T5/mit stuff/Mini-project/6th sem project/Dataset/annotations/annotated/Damage/1463.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>291</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smashed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>85</ymin>
+			<xmax>151</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>
